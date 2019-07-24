@@ -37,7 +37,7 @@ retrieve_first_element_from_array[0]
 end
 
 def retrieve_last_element_from_array(array)
-
+retrieve_last_element_from_array =
 end
 
 def update_element_from_index(array, index_number, element)
